@@ -20,7 +20,7 @@ OpenCore version: 0.8.6
   - Download MacOS Image (12.0.1): https://drive.google.com/file/d/1KrvUYpbIXtJ3hR7tZpKWnGz5_kwFEtLD/view?usp=sharing and create bootable usb using balenaEtcher https://www.balena.io/etcher/
   - Mount EFI folder of boot drive by using Mini Partion Wizard https://www.partitionwizard.com/free-partition-manager.html. Select EFI folder from boot drive and then right click choose Change Volume Letter option and click Ok and Apply
   - Copy EFI folder from the repository to EFI folder in boot drive by using Explorer++ (Administator permission is require) https://explorerplusplus.com/download
-  - Restart to BIOS and setup following this https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/haswell-e.html#intel-bios-settings  ![Screen Shot 2565-04-01 at 12 21 04](https://user-images.githubusercontent.com/43199445/161199876-94898eb0-7311-47e4-afa6-a884343dee14.png)
+  - Restart to BIOS and setup following this https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#starting-point ![Screen Shot 2565-04-01 at 12 21 04](https://user-images.githubusercontent.com/43199445/161199876-94898eb0-7311-47e4-afa6-a884343dee14.png)
   - Save change bios and boot to usb boot drive to start MacOS installation process
 
 ## Notes:
